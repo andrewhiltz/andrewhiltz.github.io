@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.73.29904.0%0D%0A%0D%0A00:00:00.480%20--%3E%2000:00:05.596%0D%0AWhen%20you%20arrive,%20you%20take%20a%20seat%20and%20wait%20a%20moment%20before%20Haley%20comes%20out%20of%20the%20back%20office%20in%20a%20hurry.%0D%0A%0D%0A"}')
